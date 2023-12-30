@@ -14,8 +14,6 @@ During this Micro-Experience, the developer:
 - Understand the application requirements and implement the problem statement from scratch.
 - Tested the implementation with test cases to ensure correctness.
 
-## Milestone 0:
-
 ### Extended Overview
 ![Jukebox](https://github.com/RutikKulkarni/Jukebox/assets/86470947/2116d0d2-b35c-40a3-b099-f014534a7c5c)
 
